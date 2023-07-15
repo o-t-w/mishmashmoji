@@ -3,7 +3,7 @@ MishMashMoji is a color emoji font available as both OpenType-SVG and COLRv1.
 
 To have the font work in all browsers, read [this blog post](https://fullystacked.net/posts/new-font-face-syntax/#:~:text=Using%20color%20fonts%20with%20tech()).
 
-Some of the glyphs are taken from the open source [Kablammo typeface](https://fonts.withgoogle.com/kablammo), designed by Travis Kochel, with creative direction by Travis Kochel and Lizy Gershenzon, at Vectro Type. I just colored them in.
+Some of the glyphs are taken from the open source [Kablammo typeface](https://fonts.withgoogle.com/kablammo), designed by Travis Kochel, with creative direction by Travis Kochel and Lizy Gershenzon, at Vectro Type. I colorised them in FontLab.
 
 ![a screenshot of all the Kablammo emoji in the font](./images/kablammo.avif)
 
